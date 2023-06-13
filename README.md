@@ -1,0 +1,32 @@
+<div align="center">
+<h1>Passion Led Us Here</h1>
+
+### Common Languages and Tools
+
+<p style="font-size: 12px">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GO">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/-Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+</p>
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mindwingx&layout=compact&theme=chartreuse-light)
+
+#### Stay in touch
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mindwingx@gmail.com)](mailto:mindwingx@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miladrg/)](https://www.linkedin.com/in/miladrg/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mindwingx)](https://twitter.com/mindwingx)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/mindwingx)](https://t.me/mindwingx)
+
+[//]: # (![Milad Roudgarian's github stats]&#40;https://github-readme-stats.vercel.app/api?username=mindwingx&count_private=true&show_icons=true&theme=chartreuse-dark&#41;)
+
+[//]: # ()
+
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://komarev.com/ghpvc/?username=mindwingx&style=flat&color=blue" width="120" alt="views counter"/>)
+
+[//]: # (</p>)
+</div>
